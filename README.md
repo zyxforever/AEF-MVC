@@ -3,7 +3,7 @@ This repo contains the Pytorch implementation of our paper
 
 ## Introduction
 <p align="center">
-    <img src="framework.pdf" width="350">
+    <img src="fig_framework.png" width="350">
 </p>
 ## Citation
 
